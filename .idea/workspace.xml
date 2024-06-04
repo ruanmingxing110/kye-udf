@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d63ac0bd-4f13-4aa9-b0d5-f27ae3b5ef95" name="Default Changelist" comment="" />
+    <list default="true" id="d63ac0bd-4f13-4aa9-b0d5-f27ae3b5ef95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/udaf/ToBitmapUDAF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/udaf/ToBitmapUDAF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/kye/app/SparkBitmapUDAF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/kye/app/SparkBitmapUDAF.scala" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +30,9 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -41,6 +50,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="2hDspI03DvGQKylTsQxWR71OPDX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
@@ -97,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1717140163787</updated>
       <workItem from="1717140166548" duration="221000" />
-      <workItem from="1717140398173" duration="7151000" />
+      <workItem from="1717140398173" duration="10142000" />
     </task>
     <servers />
   </component>
@@ -113,29 +124,33 @@
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="369" y="121" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1493.885@0.0.1493.885" timestamp="1717146905187" />
-    <state x="528" y="198" key="FileChooserDialogImpl" timestamp="1717146350602">
+    <state x="528" y="198" key="FileChooserDialogImpl" timestamp="1717377558786">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state x="528" y="198" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1717146350602" />
-    <state width="1450" height="144" key="GridCell.Tab.0.bottom" timestamp="1717147120025">
+    <state x="528" y="198" key="FileChooserDialogImpl/0.0.1493.885@0.0.1493.885" timestamp="1717377558786" />
+    <state width="1450" height="144" key="GridCell.Tab.0.bottom" timestamp="1717377573446">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="144" key="GridCell.Tab.0.bottom/0.0.1493.885@0.0.1493.885" timestamp="1717147120025" />
-    <state width="1450" height="144" key="GridCell.Tab.0.center" timestamp="1717147120024">
+    <state width="1450" height="144" key="GridCell.Tab.0.bottom/0.0.1493.885@0.0.1493.885" timestamp="1717377573446" />
+    <state width="1450" height="144" key="GridCell.Tab.0.center" timestamp="1717377573446">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="144" key="GridCell.Tab.0.center/0.0.1493.885@0.0.1493.885" timestamp="1717147120024" />
-    <state width="1450" height="144" key="GridCell.Tab.0.left" timestamp="1717147120024">
+    <state width="1450" height="144" key="GridCell.Tab.0.center/0.0.1493.885@0.0.1493.885" timestamp="1717377573446" />
+    <state width="1450" height="144" key="GridCell.Tab.0.left" timestamp="1717377573446">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="144" key="GridCell.Tab.0.left/0.0.1493.885@0.0.1493.885" timestamp="1717147120024" />
-    <state width="1450" height="144" key="GridCell.Tab.0.right" timestamp="1717147120024">
+    <state width="1450" height="144" key="GridCell.Tab.0.left/0.0.1493.885@0.0.1493.885" timestamp="1717377573446" />
+    <state width="1450" height="144" key="GridCell.Tab.0.right" timestamp="1717377573446">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
-    <state width="1450" height="144" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1717147120024" />
+    <state width="1450" height="144" key="GridCell.Tab.0.right/0.0.1493.885@0.0.1493.885" timestamp="1717377573446" />
     <state x="249" y="85" key="SettingsEditor" timestamp="1717140386831">
       <screen x="0" y="0" width="1493" height="885" />
     </state>
     <state x="249" y="85" key="SettingsEditor/0.0.1493.885@0.0.1493.885" timestamp="1717140386831" />
+    <state x="135" y="70" key="new project wizard" timestamp="1717377570595">
+      <screen x="0" y="0" width="1493" height="885" />
+    </state>
+    <state x="135" y="70" key="new project wizard/0.0.1493.885@0.0.1493.885" timestamp="1717377570595" />
   </component>
 </project>
